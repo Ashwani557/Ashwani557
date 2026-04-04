@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi 👋, I am Ashwani Pandey  <br><br>I'm a 3rd-year Integrated M.Tech student in Computational & Data Science at VIT Bhopal.  <br>I’m passionate about solving real-world problems using Machine Learning, Computer Vision, and Data Science.<br><br>🔹 Areas of Interest:  <br>- Machine Learning & Deep Learning  <br>- Computer Vision (YOLO, OpenCV)  <br>- Data Structures & Algorithms  <br>- Backend & Data-driven Systems  <br><br>🔹 Tech Stack:  <br>- Languages: Python, Java, SQL  <br>- ML/DL: Scikit-learn, TensorFlow, YOLO  <br>- Tools: Git, GitHub, VS Code  <br><br>I enjoy building impactful projects like fall detection, fire detection, smart traffic systems, and ML-based predictions and classificaton.  <br>Always curious, always learning 🚀<br>
      
-              
+  
 ## 🌐 Socials:          
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashwani-pandey-1397a4313/) 
 
